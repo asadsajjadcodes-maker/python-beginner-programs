@@ -9,3 +9,6 @@ This repository contains small Python programs I wrote while learning Python.
 
 02 students_marks_sheet.py
    Calculates total marks and result of a student.
+
+03_simple_calculator.py  
+   A simple calculator that performs addition, subtraction, multiplication, and division.
