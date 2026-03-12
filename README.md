@@ -21,3 +21,13 @@ The program gives hints if the guess is too high or too low until the correct nu
 A simple spam detection program that checks user comments for common spam phrases 
 like "buy now", "click this", or "make a lot of money". 
 If any spam phrase is detected, the program marks the comment as spam.
+
+06_multiplication_table_generator.py
+
+A simple Python program that generates the multiplication
+table of any number entered by the user.
+
+Features:
+- Accepts user input
+- Generates multiplication table from 1 to 10
+- Beginner friendly Python logic
