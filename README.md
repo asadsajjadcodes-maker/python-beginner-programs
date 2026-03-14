@@ -31,3 +31,15 @@ Features:
 - Accepts user input
 - Generates multiplication table from 1 to 10
 - Beginner friendly Python logic
+
+07_factorial_calculator.py  
+A Python program that calculates the factorial of a number entered by the user using a loop.
+
+08_greatest_number_function.py  
+A Python program that uses a function to determine the greatest number among three numbers entered by the user.
+
+09_star_pattern.py  
+A simple program that prints a pyramid star pattern using loops.
+
+10_sum_of_n_numbers.py  
+A Python program that calculates the sum of the first n natural numbers using a while loop.
