@@ -61,3 +61,7 @@ the highest marks, lowest marks, average, and total marks.
 A Python program that converts temperature between Celsius and Fahrenheit.
 The program allows the user to choose the conversion type and continues running
 until the user selects the exit option.
+
+13_rock_paper_scissors_game.py  
+A Python console game where the user plays Rock, Paper, Scissors against the computer.  
+The program includes user input validation, random computer choices, and error handling.
