@@ -66,6 +66,21 @@ until the user selects the exit option.
 A Python console game where the user plays Rock, Paper, Scissors against the computer.  
 The program includes user input validation, random computer choices, and error handling.
 
-14_file_read_write_demo.py  
-A Python program that demonstrates file handling.  
-The program writes text to a file and then reads the content back from the file.
+14 – File Read & Write Demo
+This project demonstrates Python file handling operations.
+
+Features:
+- Write text into a file
+- Append new content to an existing file
+- Read file contents
+- Search for a specific word inside the file
+
+Concepts Used:
+- `open()` function
+- File modes (`w`, `a`, `r`)
+- String operations
+- Conditional statements
+
+Files:
+- 14_file_read_write_demo.py
+- python_introduction.txt
