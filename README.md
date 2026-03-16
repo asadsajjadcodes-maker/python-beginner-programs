@@ -65,3 +65,7 @@ until the user selects the exit option.
 13_rock_paper_scissors_game.py  
 A Python console game where the user plays Rock, Paper, Scissors against the computer.  
 The program includes user input validation, random computer choices, and error handling.
+
+14_file_read_write_demo.py  
+A Python program that demonstrates file handling.  
+The program writes text to a file and then reads the content back from the file.
