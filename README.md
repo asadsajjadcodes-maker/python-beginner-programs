@@ -93,3 +93,14 @@ Features:
 - Uses a Python function to automate table creation
 - Saves each table in a separate `.txt` file
 - Demonstrates loops, functions, and file handling
+
+
+# Project 16 – Word Censor Filter
+
+This program reads a text file and automatically censors banned words.
+
+Features:
+- Reads text from a file
+- Searches for inappropriate words
+- Replaces them with `#` characters
+- Writes the cleaned text back into the file
