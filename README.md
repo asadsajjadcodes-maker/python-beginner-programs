@@ -104,3 +104,14 @@ Features:
 - Searches for inappropriate words
 - Replaces them with `#` characters
 - Writes the cleaned text back into the file
+
+# Project 17 – Random Password Generator
+
+This program generates a random password based on the user's preferences.
+
+Features:
+- User chooses password length
+- User can include letters
+- User can include digits
+- User can include symbols
+- Generates a random password using Python modules
